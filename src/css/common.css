@@ -22,5 +22,5 @@ img {
 .field {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  padding-right: 10px;
 }
